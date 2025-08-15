@@ -32,6 +32,14 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				celebration: {
+					DEFAULT: 'hsl(var(--celebration))',
+					foreground: 'hsl(var(--celebration-foreground))'
+				},
+				magic: {
+					DEFAULT: 'hsl(var(--magic))',
+					foreground: 'hsl(var(--magic-foreground))'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
